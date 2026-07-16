@@ -1,0 +1,1 @@
+{"numeric_features": ["age_months", "sex", "wealth_index", "residence_type", "mother_education", "mother_age"], "n_regions": 8}

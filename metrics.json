@@ -1,0 +1,11 @@
+{
+  "haz_mae": 0.9322051011505218,
+  "waz_mae": 0.8198962792729905,
+  "whz_mae": 0.8631390093974405,
+  "stunting_accuracy": 0.503257328990228,
+  "stunting_macro_f1": 0.34768418821563724,
+  "underweight_accuracy": 0.495114006514658,
+  "underweight_macro_f1": 0.3478448001781158,
+  "wasting_accuracy": 0.6091205211726385,
+  "wasting_macro_f1": 0.2970230278880453
+}
